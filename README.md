@@ -1,2 +1,2 @@
 # hello-world
-gethub走起！
+github走起！
